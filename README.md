@@ -1,16 +1,22 @@
-# covid_19_app
+# 🦠 🦠 Covid 19 Simple Application-Flutter-UI
 
-A new Flutter project.
 
-## Getting Started
+This Application have two Pages of Efficient Infomation like total Affected,total recovered,total death and the bottom of the application provides you how to prevent the virus and also provide you a helpline Number which provide you a Medical Help during this pendemic period if You fall sick or face any of the covid symtoms just to make a call .On the next page ,it show u a complete details of the situation like new cases encountered and show the best data as you want in the pendenmic situation thats it. 
 
-This project is a starting point for a Flutter application.
+## Process Flow of the App. 
 
-A few resources to get you started if this is your first Flutter project:
+1. Firstly open the App.
+2. It shows you all the cases that ecountered on the that day. 
+3. Then click on the New Cases that it shows the overall infomation of the New Cases.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Steps To Run App
+1. cd Covid-19-App.  
+2. flutter run. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+
+![Screenshot 2021-05-04 at 4 52 34 PM](https://user-images.githubusercontent.com/77659857/116997561-95cd6700-acfa-11eb-8e95-b31dd447b2be.png)
+![Screenshot 2021-05-04 at 4 36 35 PM](https://user-images.githubusercontent.com/77659857/116997613-a5e54680-acfa-11eb-9a7a-bb2fa4508b5a.png)
+
+
+## Thank You 👍🏻 👍 
